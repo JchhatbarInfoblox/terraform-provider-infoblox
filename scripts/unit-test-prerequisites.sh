@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# This script creates the required extensible attributes in the NIOS server
 
 
 NIOS_SERVER="${NIOS_SERVER:-192.168.1.2:443}"
