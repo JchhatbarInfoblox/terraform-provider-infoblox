@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# test
+
 NIOS_SERVER="${NIOS_SERVER:-192.168.1.2:443}"
 NIOS_USER="${NIOS_USER:-admin}"
 NIOS_PASSWORD="${NIOS_PASSWORD:-infoblox}"
